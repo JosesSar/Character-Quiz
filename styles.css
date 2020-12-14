@@ -1,0 +1,59 @@
+body{
+       background-image: url("https://i.pinimg.com/originals/73/b2/16/73b216d7f00fac22eb790716cb2c6304.jpg");
+background-repeat: no-repeat;
+    background-attachment: fixed;  
+  background-size: cover;
+}
+
+.one{
+ 	font-family: "Verdana";   
+    text-shadow:8px 8px 8px #FFFFFF;
+    font-weight: 900;
+}
+
+.two{
+ 	font-family: "Verdana";   
+    text-shadow:8px 8px 8px #FFFFFF;
+    font-weight: 600;
+}
+
+h1{
+    font-family: "Verdana";
+    text-shadow:8px 8px 8px #FFFFFF;
+}
+
+img{
+    display: inline-block;
+    width:350px;
+    height:350px;
+    border: 5px solid #555;
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.results{
+    font-family: "Verdana";   
+    text-shadow:8px 8px 8px #FFFFFF;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 12px;
+    font-size: 200%;
+}
+
+.counter{
+    font-family: "Verdana";   
+    text-shadow:8px 8px 8px #FFFFFF;
+    font-weight: 600;
+}
+
+.btn1:hover{
+    background-color: gray;
+    color: white;
+}
+
+.btn1{
+    display:block ;
+    padding:1px 14px;
+    transition-duration: .3s;
+}
