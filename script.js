@@ -1,3 +1,7 @@
+$( document ).ready(function() {
+   
+
+
 var rigby = "https://www.kindpng.com/picc/m/332-3326206_thumb-image-rigby-regular-show-png-transparent-png.png";
 
 var mordecai = "https://pbs.twimg.com/profile_images/469274971886612481/MHmShswq.jpeg";
@@ -30,4 +34,4 @@ $(".btn1") .click(function(){
     $(".results").append("<img src=https://memegenerator.net/img/images/300x300/12328318.jpg>");
              }
 });
-
+});
